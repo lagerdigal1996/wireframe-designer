@@ -1,5 +1,9 @@
 document.addEventListener('DOMContentLoaded', function() {
     const canvas = document.getElementById('canvas');
+    if (!canvas) {
+        console.error('Canvas element not found');
+        return;
+    }
     
     function clearCanvas() {
         const context = canvas.getContext('2d');
