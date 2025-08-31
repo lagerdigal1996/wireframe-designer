@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
         return;
     }
     
-    function clearCanvas() {
+    function resetCanvas() {
         const context = canvas.getContext('2d');
         if (!context) {
             console.error('Failed to get canvas context');
