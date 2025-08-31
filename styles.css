@@ -25,4 +25,5 @@ footer {
     background: #007BFF;
     color: #fff;
     position: relative;
+    border-top: 2px solid #0056b3; /* Added border for better visibility */
 }
