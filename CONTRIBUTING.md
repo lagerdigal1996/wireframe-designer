@@ -6,8 +6,9 @@ We welcome contributions to improve our project!
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and ensure that your code passes all tests.
-4. Commit your changes with meaningful commit messages that explain the reasoning behind your modifications.
-5. Submit a pull request to the main repository for review.
+4. If you add new functionality, please also include unit tests.
+5. Commit your changes with meaningful commit messages that explain the reasoning behind your modifications.
+6. Submit a pull request to the main repository for review.
 
 ## Code of Conduct
 We expect all contributors to adhere to our code of conduct, ensuring a welcoming environment for everyone.
